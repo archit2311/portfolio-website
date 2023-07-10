@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500;1,600&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+
+}
+
+
+.about{
+   
+  margin-top: 50%;
+    background-color: #fff;
+    /* height: 100vh; */
+    /* margin-bottom: 0;   */
+    height: 100vh;
+}
+
+
+
+.about-container{
+    
+    display: flex;
+    gap: 35px;
+}
+.abt-designL{
+    position: relative;
+    right: 45%;
+    top: 31%;
+}
+.dp{
+    margin-left: 12rem;
+    width: 500px;
+    height: 500px;
+}
+
+
+
+.abt-desc{
+    /* padding: 50px; */
+    text-align: left;
+  
+}
+
+.desc{
+    width: 500px;
+}
+
+.desc p{
+    line-height:30px;
+    letter-spacing:normal;
+    color:#6f6b80;
+    font-size: 16px;
+}
+
+.role{
+    color: orangered;
+}
+.hire{
+    border-color: orangered;
+    background: orangered;
+    color: white;
+    width: 120px;
+    height: 50px;
+    font-weight: 400;
+}
+
+.abt-designR{
+    position: relative;
+    left: 40%;
+    bottom: 25%;
+}

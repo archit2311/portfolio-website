@@ -1,0 +1,21 @@
+.projects{
+    background-color: blueviolet;
+    padding-top: 90px;
+    background-color: white;
+    height: 100vh;
+    padding-bottom: 50px;
+}
+
+.project-container{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 60px;
+}
+
+.card{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.card-text{
+    text-align:left;
+}

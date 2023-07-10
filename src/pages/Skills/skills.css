@@ -1,0 +1,35 @@
+.skills{
+    padding-top: 10%;
+    margin-top: 0;
+    background-color: white;
+    height: max-content;
+    padding-bottom: 60px;
+}
+.skills-container{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 10px;
+    
+
+}
+
+.skill-img{
+    /* padding-left: 30px; */
+}
+.skill-title{
+    position: relative;
+    top: 5%;
+    
+    text-align: left;
+    width: 530px;
+}
+.skill-title h4{
+    color: orangered;
+}
+
+
+
+.sk{
+  
+    padding-bottom: 15px;
+}
